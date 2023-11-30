@@ -1,16 +1,65 @@
-### Hi there 👋
+<div id="header" align="center">
+        <img src="https://i.imgur.com/ylvTI6T.gif" width="200"/>
+        <h1 align="center">Hi! My name is Fernando</h1>
+        <h3 align="center">I'm an enthusiast in programming and systems engineering.</h3>
 
-<!--
-**FernandoFdez20/FernandoFdez20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+[![Discord](https://img.shields.io/badge/Discord-JOHANN%230475-7289DA?logo=discord&logoColor=white&style=flat-square)](https://discord.com/app)   [![Instagram](https://img.shields.io/badge/Instagram-johann_2024-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/johann_2024)
+[![YouTube](https://img.shields.io/badge/YouTube-Canal-FF0000?logo=youtube&logoColor=white&style=flat-square)](https://www.youtube.com/channel/UCvI47WJI307LihCj4x07GKQ)
+
+
+</div>
+
+---
+
+
+<div align="center">
+
+### 👨‍💻 About Me 
+
+</div>
+
+- 📝 I student
+
+- 📫 How to reach me **johannaguinaga20@gmail.com**
+
+- 🌱 I’m currently learning **Python**
+---
+<h3>🔨 Languages and Tools:</h3>
+
+
+
+
+
+<div align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" />
+
+
+</div>
+
+---
+<div align="center">
+
+
+
+ ### 📊 My Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=JohannTA&theme=merko)](https://git.io/streak-stats)
+
+[![Estadísticas de GitHub de JohannTA](https://github-readme-stats.vercel.app/api?username=JohannTA&show_icons=true&theme=radical)](https://github.com/JohannTA)
+
+        
+</div>
