@@ -10,8 +10,7 @@
 
 
 
-[![Discord](https://img.shields.io/badge/Discord-JOHANN%230475-7289DA?logo=discord&logoColor=white&style=flat-square)](https://discord.com/app)   [![Instagram](https://img.shields.io/badge/Instagram-johann_2024-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/johann_2024)
-[![YouTube](https://img.shields.io/badge/YouTube-Canal-FF0000?logo=youtube&logoColor=white&style=flat-square)](https://www.youtube.com/channel/UCvI47WJI307LihCj4x07GKQ)
+
 
 
 </div>
@@ -27,7 +26,7 @@
 
 - 📝 I student
 
-- 📫 How to reach me **johannaguinaga20@gmail.com**
+- 📫 How to reach me **macaco20@gmail.com**
 
 - 🌱 I’m currently learning **Python**
 ---
